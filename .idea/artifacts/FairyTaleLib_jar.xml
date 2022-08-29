@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FairyTaleLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FairyTaleLib_jar</output-path>
+    <root id="archive" name="FairyTaleLib.jar">
+      <element id="module-output" name="FairyTaleLib" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>project</OriginalElement>
+  <nodes>
+    <node x="558.0" y="676.0">project.utils</node>
+    <node x="0.0" y="676.0">project.booking</node>
+    <node x="195.0" y="676.0">project.people</node>
+    <node x="0.0" y="0.0">project.ModelManager</node>
+    <node x="338.0" y="0.0">project.LibraryTest</node>
+    <node x="382.0" y="676.0">project.items</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="0.5430520034100597" showDependencies="false" x="235.0" y="576.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
